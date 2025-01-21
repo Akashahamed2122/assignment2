@@ -377,9 +377,9 @@ ul{
     font-weight: 600;
     background-color: #95B226;
     border-radius: 47.93px;
-    position: relative;
+    /* position: relative;
     top: -37px;
-    left: 40px;
+    left: 40px; */
     color: white;
 }
 
@@ -387,11 +387,29 @@ ul{
     background-color: #5D58F0;
 }
 
+.btn-c{
+    margin-top: -30px;
+    margin-left: 30px;
+}
+
 
 .child-title{
     font-size: 15.34px;
     font-weight: 700;
     padding: 0px 38px 30px 38px;
+}
+
+.story-btn{
+    text-align: center;
+    padding: 50px 0px;
+}
+.story-btn button{
+    font-size: 20px;
+    padding: 10px 47px;
+    color: white;
+    background-color: rgba(17, 17, 17, 1);
+    border-radius: 12px;
+    
 }
 
 
@@ -520,6 +538,23 @@ ul{
         width: 90%;
 
 
+    }
+
+    .child-btn{
+        padding: 10px 15px;
+        border: none;
+        font-size: 15px;
+        font-weight: 500;
+        background-color: #95B226;
+        border-radius: 47.93px;
+        
+        
+        color: white;
+    }
+
+    .btn-c{
+
+        margin-top: -13px;
     }
 
    
