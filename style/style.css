@@ -574,7 +574,7 @@ main{
     /* story section style */
     .story-section{
         padding: 0px;
-        background-image: none;
+        /* background-image: none; */
     }
     .big-box{
         display: none;
