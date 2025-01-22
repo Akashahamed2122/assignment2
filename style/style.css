@@ -619,6 +619,8 @@ main{
 
 
     }
+   
+   
 
     .child-btn{
         padding: 10px 15px;
@@ -630,6 +632,13 @@ main{
         
         
         color: white;
+    }
+   
+    .child-title{
+        font-size: 10px;
+        font-weight: 700;
+        padding: 21px 13px 26px 24px;
+
     }
 
     .btn-c{
@@ -660,6 +669,7 @@ main{
         width: 100%;
     }
 
+    
     
    
 }
